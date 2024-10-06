@@ -1,0 +1,4 @@
+{
+  "search": "3f 00 00 80 3e",
+  "replace": "3d 8f c2 f5 3c"
+}
