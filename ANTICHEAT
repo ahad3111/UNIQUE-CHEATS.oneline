@@ -3,18 +3,3 @@
   "search": "F0 4B 2D E9 18 B0 8D E2 18 D0 4D E2 00 90 A0 E1 E0 01 9F E5 03 60 A0 E1 02 70 A0 E1 00 00 8F E0 01 80 A0 E1 00 00 D0 E5",
   "replace": "00 00 A0 E3 1E FF 2F E1"
 }
-else
-{
-  "search": "0A 00 A0 E3 6E 00 54 E3 3F 00 00 13 10 8C BD E8 08 00 A0 E3 00 00 00 EA 0D 00 A0 E3 70 00 FF ?? ?? ?? BD E8 ?? ?? ?? 04 ?? ?? ?? 04 ?? ?? ?? 04 ?? ?? ??",
-  "replace": "00 F0 20 E3"
-}
-else
-{
-  "search": "10 4C 2D E9 08 B0 8D E2 40 D0 4D E2 E0 20 9F E5 02 20 9F E7 00 20 92 E5 0C 20 0B E5 20 00 0B E5 24 10 8D E5 20 00 1B E5",
-  "replace": "00 00 A0 E3 1E FF 2F E1"
-}
-else
-{
-  "search": "10 4C 2D E9 08 B0 8D E2 40 D0 4D E2 E8 30 9F E5 03 30 9F E7 00 30 93 E5 0C 30 0B E5 20 00 0B E5 01 00 01 E2 21 00 4B E5",
-  "replace": "00 00 A0 E3 1E FF 2F E1"
-}
