@@ -1,4 +1,4 @@
 {
-  "search": "3f 00 00 80 3e",
-  "replace": "3d 8f c2 f5 3c"
+  "search": "ff ff ff ff 11 cc 03 00 fd cd 03 00 ff ff ff ff 08 00 00 00 00 00 60 40 cd cc 8c 3f 8f c2 f5 3c cd cc cc 3d 07 00 00 00 00 00 f0 ff",
+  "replace": "9e 8e 0d 06 00 20 8b 0d af a9 0d 00 00 00 94 0d e7 ce 0d 06 00 20 f0 9d 1f ef 0d 00 00 00 f3 9d 1f 0f 0e 00 00 00 29 0e 98 07 00 00"
 }
